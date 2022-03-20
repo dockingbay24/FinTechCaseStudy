@@ -62,7 +62,13 @@ Coinbase has gone through 18 funding rounds totalling  $747.3M USD before going 
 > Recomendations:  
 Continue to build out ecosystem with mainstream businesses accross globe,  continue great advertising campaigns like the 2022 SuperBowl add to make it a mainstream name and trusted platform.  
 
-Continue to be mission focused even when time are tough with Company stock dropping in half from IPO and recent decission to block 25,000 accounts in Ukraine war. 
+Continue to be mission focused even when time are tough with Company stock dropping in half from IPO and recent decission to block 25,000 accounts in Ukraine war.
+
+Continue to track major changes to technology and be on leading adoptor edge like transition from Web3  to Metaverse
+![Evolution](https://miro.medium.com/max/1400/0*YkpcORRVIEhtNIXf)
+
+Continue to keep fees schedules simple and transparant
+![Fee Schedule 2022-03](https://miro.medium.com/max/1400/1*aTNJy0bEMIEr-Upqp7WeAA.png)
 
 ## Sources
 * https://aws.amazon.com/solutions/case-studies/coinbase/
@@ -72,5 +78,6 @@ Continue to be mission focused even when time are tough with Company stock dropp
 * https://en.wikipedia.org/wiki/Coinbase
 * https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804
 * https://en.wikipedia.org/wiki/Brian_Armstrong_(businessman)
+* https://blog.coinbase.com/how-coinbase-thinks-about-the-metaverse-16d8070f4841
 
 
