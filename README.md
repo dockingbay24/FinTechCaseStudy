@@ -24,6 +24,7 @@ Coinbase has gone through 18 funding rounds totalling  $747.3M USD before going 
 
 * The companies goal is to make it easy for people to buy and trade cryptocurrencies and to help businesses receive payments in cryptocurrencies by being a world open exchange.  Company cusomter is any client who uses online financial transactions or wants to trade or invest in cryptocurrency.  
 
+![Economic Freedom](https://miro.medium.com/max/1400/1*7FuZWFgz2r2nwlmOc2sX9A.png)
 
 
 > Technologies used by Coinbase include:
@@ -64,12 +65,12 @@ Continue to build out ecosystem with mainstream businesses accross globe,  conti
 Continue to be mission focused even when time are tough with Company stock dropping in half from IPO and recent decission to block 25,000 accounts in Ukraine war. 
 
 ## Sources
-https://aws.amazon.com/solutions/case-studies/coinbase/
-https://www.coinbase.com/legal/licenses
-https://www.crunchbase.com/organization/coinbase
-https://cathiesark.com/posts/coinbase-key-metrics
-https://en.wikipedia.org/wiki/Coinbase
-https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804
-https://en.wikipedia.org/wiki/Brian_Armstrong_(businessman)
+* https://aws.amazon.com/solutions/case-studies/coinbase/
+* https://www.coinbase.com/legal/licenses
+* https://www.crunchbase.com/organization/coinbase
+* https://cathiesark.com/posts/coinbase-key-metrics
+* https://en.wikipedia.org/wiki/Coinbase
+* https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804
+* https://en.wikipedia.org/wiki/Brian_Armstrong_(businessman)
 
 
