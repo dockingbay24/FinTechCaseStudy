@@ -5,51 +5,58 @@ Case Study for Coinbase
 
 ## Overview and Origin
 
-* Name of company
+Coinbase  
+ > https://www.coinbase.com/
 
-* When was the company incorporated?
+  Coinbase is a bitcoin wallet and cryptocurrency exchange.  It is currently the largest consumer bitcoin wallet in the world and was the first exchange to be regulated in the United States.  It operates transactions in 190 countries and exchanges over 26 curerencies.  Over 11,00 institutions use CoinBase and 185,00 ecosystem partners. 
 
-* Who are the founders of the company?
+Company was founded in 2012.  “...With the radical idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin.” Brian Armstrong.  Company founders were Brian Armstrong and Fred Ehrsam.
 
-* How did the idea for the company (or project) come about?
+***
+In 2010 Brian Armstrong came across the Bitcoin white paper published under the alias Satoshi Nakamoto. In 2011, he joined Airbnb as a software engineer, and was exposed to payment systems in the 190 countries Airbnb operated in at the time. While at Airbnb, he saw the difficulties of sending money to South America. He began working weekends and nights to write code in Ruby and JavaScript to buy and store cryptocoins. In 2012, he entered the Y Combinator startup accelerator and received a $150,000 investment, which he used to fund Coinbase.
 
-* How is the company funded? How much funding have they received?
+Coinbase has gone through 18 funding rounds totalling  $747.3M USD before going public oon NASDAQ on April 14th, 2021
 
-
+***
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* The companies goal is to make it easy for people to buy and trade cryptocurrencies and to help businesses receive payments in cryptocurrencies by being a world open exchange.  Company cusomter is any client who uses online financial transactions or wants to trade or invest in cryptocurrency.  
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+> Technologies used by Coinbase include:
+* languages such as Go or Java for front-end web apps, 
+* Ruby on Rails for API services
+* Python for machine learning 
+* Amazon Cloud Technologies (EC2, S3, RDS, Kinesis, EMR, Lambda, Identity and Access Management, CloudTrail)
+
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Coinbase is registerred in the United States as a Money Transmitter is most common license per state.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* Major trends have been explosion of crypto currencies and there acceptance businesses and public as accepted form of payment.
 
-* What are the other major companies in this domain?
+> Key Competitors:  eToro, Coinmama, Gemini 
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* There is a term coined  “Coinbase Effect” has turned into a phenomenon around the industry whereby a listing will positively affect a token or coin. The theory around the 'Coinbase Effect' is simple: get listed on Coinbase, and your price will skyrocket
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* Trading Volume of $335 billion.
+* Total Revenue of approximately $1.8 billion.
+* Net Income of approximately $730 million to $800 million.
+* Adjusted EBITDA of approximately $1.1 billion.
 
-* How is your company performing relative to competitors in the same domain?
+
+* Coinbase is 100% transactions based for revenue. This brings risk, but on flip side it is one of the few platforms where the customer holds the cpoins. Platforms like Robinhood and WeBull don't let you move what you own. Currently Coinbase and other platforms like Gemini are more pure exchanges for crypto.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+> Recomendations:  
+Continue to build out ecosystem with mainstream businesses accross globe,  continue great advertising campaigns like the 2022 SuperBowl add to make it a mainstream name and trusted platform.  
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+Continue to be mission focused even when time are tough with Company stock dropping in half from IPO and recent decission to block 25,000 accounts in Ukraine war.  
