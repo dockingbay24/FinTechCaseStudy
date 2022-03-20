@@ -3,6 +3,8 @@ Case Study for Coinbase
 
 # Coinbase  Case Study
 
+![coinbase](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSAr0YNWmTqi8u157GwO73OdMYTt8D_Zb56g&usqp=CAU)
+
 ## Overview and Origin
 
 Coinbase  
